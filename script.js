@@ -1,3 +1,4 @@
+[
 {
     nome: "O Senhor dos Anéis",
     imagem: "https://upload.wikimedia.org/wikipedia/pt/8/87/The_Lord_of_the_Rings_poster.jpg",
